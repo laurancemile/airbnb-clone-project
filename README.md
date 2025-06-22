@@ -10,9 +10,9 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [UX/UI Design Planning](#ux/ui-design-planning)
-  - [UI Component Patterns](#ui-component-patterns)
-  - [Project Roles](#project-roles)
+  - ["UI/UX Design Planning"](#ux/ui-design-planning)
+  - ["UI Component Patterns"](#ui-component-patterns)
+  - ["Project Roles and Responsibilities”](#project-roles-and-responsibilities)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
@@ -162,7 +162,7 @@ Hooks:
 
 Contexts:
 
-### Project Roles
+### Project Roles and Responsibilites
 
 1. Project Manager
 2. Frontend Developers
